@@ -1,0 +1,132 @@
+18:55:38.584 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+18:55:39.121 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+18:57:20.187 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+18:57:20.278 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+21:53:17.300 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+21:53:22.435 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register now button.
+21:53:27.603 [main] INFO  testCases.TC_001_AccountRegistrationTest - Enter email address
+21:53:32.694 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on get started
+21:53:37.792 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue button
+21:54:18.003 [main] INFO  testCases.TC_001_AccountRegistrationTest - Enter company name
+21:54:23.149 [main] INFO  testCases.TC_001_AccountRegistrationTest - Enter password
+21:54:28.257 [main] INFO  testCases.TC_001_AccountRegistrationTest - Enter conformation password
+21:54:33.334 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue button
+21:54:38.419 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on create account button
+21:54:45.319 [main] INFO  testCases.TC_001_AccountRegistrationTest - Verifed the Account created successfully message
+21:54:50.421 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on click here to login button
+21:54:50.422 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest ***
+22:13:36.845 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+22:13:36.908 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+23:11:17.147 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+23:11:17.230 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+23:53:37.260 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+23:53:37.393 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+21:01:52.530 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+21:01:57.658 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register now button.
+21:02:02.788 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Enter email address
+21:02:07.882 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on get started
+21:02:12.959 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue button
+21:02:53.174 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Enter company name
+21:02:58.315 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Enter password
+21:03:03.433 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Enter conformation password
+21:03:04.560 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+21:08:47.179 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+21:08:52.300 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register now button.
+21:08:57.443 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Enter email address
+21:09:02.518 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on get started
+21:09:03.662 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+21:36:53.435 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+21:36:58.572 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register now button.
+21:37:03.714 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Enter email address
+21:37:08.838 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on get started
+21:37:13.928 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue button
+21:37:54.148 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Enter company name
+21:37:59.303 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Enter password
+21:38:04.426 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Enter conformation password
+21:38:09.481 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue button
+21:38:14.563 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on create account button
+21:38:19.615 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Verifed the Account created successfully message
+21:38:24.694 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on click here to login button
+21:38:24.694 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest ***
+00:36:50.016 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+00:36:55.210 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register now button.
+00:37:00.403 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Enter email address
+00:37:05.493 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on get started
+22:21:45.100 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+22:21:50.253 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register now button.
+22:21:55.384 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Enter email address
+22:21:55.408 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+22:26:02.467 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+22:26:07.856 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register now button.
+22:26:12.966 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Enter email address
+22:26:18.226 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on get started
+22:26:18.933 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+22:30:32.788 [TestNG-tests-1] INFO  testCases.TC_002_VerifySignout - ***Starting TC_002_Login Test***
+22:37:50.571 [TestNG-tests-1] INFO  testCases.TC_002_VerifySignout - ***Starting TC_002_Login Test***
+23:00:28.309 [TestNG-tests-1] INFO  testCases.TC_002_VerifySignout - ***Starting TC_002_Login Test***
+23:01:01.621 [TestNG-tests-1] INFO  testCases.TC_002_VerifySignout - ***TC_002 finished***
+19:48:57.177 [TestNG-tests-1] INFO  testCases.TC_002_VerifySignout - ***Starting TC_002_Login Test***
+19:56:04.561 [TestNG-tests-1] INFO  testCases.TC_002_VerifySignout - ***Starting TC_002_Login Test***
+23:15:43.830 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - ****starting TC_003_LoginDDT*****
+23:16:08.181 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - ****Finished TC_003_LoginDDT*****
+23:16:08.220 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - ****starting TC_003_LoginDDT*****
+23:16:36.109 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - ****starting TC_003_LoginDDT*****
+23:17:01.617 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - ****starting TC_003_LoginDDT*****
+23:40:26.116 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+23:40:31.501 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register now button.
+23:40:36.609 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Enter email address
+23:40:41.878 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on get started
+23:40:42.495 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+23:55:24.565 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - ****starting TC_003_LoginDDT*****
+23:55:52.552 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - ****Finished TC_003_LoginDDT*****
+23:55:52.594 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - ****starting TC_003_LoginDDT*****
+23:56:22.865 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - ****starting TC_003_LoginDDT*****
+23:57:42.720 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+23:57:48.137 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register now button.
+23:57:53.248 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Enter email address
+23:57:58.525 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on get started
+23:58:03.800 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue button
+23:58:43.907 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Enter company name
+23:58:49.003 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Enter password
+23:58:54.073 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Enter conformation password
+23:58:59.334 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue button
+23:59:04.590 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on create account button
+23:59:09.652 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Verifed the Account created successfully message
+23:59:14.915 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on click here to login button
+23:59:14.915 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest ***
+23:59:37.270 [TestNG-tests-1] INFO  testCases.TC_002_VerifySignout - ***Starting TC_002_Login Test***
+00:00:51.922 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - ****starting TC_003_LoginDDT*****
+00:01:18.990 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - ****Finished TC_003_LoginDDT*****
+00:01:18.998 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - ****starting TC_003_LoginDDT*****
+00:01:49.135 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - ****starting TC_003_LoginDDT*****
+00:10:43.260 [TestNG-tests-1] INFO  testCases.TC_002_VerifySignout - ***Starting TC_002_Login Test***
+00:20:58.540 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+00:21:03.934 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register now button.
+00:21:09.048 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Enter email address
+00:21:14.315 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on get started
+00:21:24.350 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+00:21:47.879 [TestNG-tests-1] INFO  testCases.TC_002_VerifySignout - ***Starting TC_002_Login Test***
+00:24:44.544 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+00:24:49.949 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register now button.
+00:24:55.050 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Enter email address
+00:25:00.314 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on get started
+00:25:05.600 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue button
+00:25:45.712 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Enter company name
+00:25:50.816 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Enter password
+00:25:55.888 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Enter conformation password
+00:26:01.158 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue button
+00:26:06.411 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on create account button
+00:26:11.461 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Verifed the Account created successfully message
+00:26:16.727 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on click here to login button
+00:26:16.727 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest ***
+00:26:41.631 [TestNG-tests-1] INFO  testCases.TC_002_VerifySignout - ***Starting TC_002_Login Test***
+00:29:49.655 [TestNG-tests-1] INFO  testCases.TC_002_VerifySignout - ***Starting TC_002_Login Test***
+01:54:08.482 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+01:54:13.839 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register now button.
+01:54:18.963 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Enter email address
+01:54:24.224 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on get started
+01:55:42.554 [TestNG-tests-1] INFO  testCases.TC_002_VerifySignout - ***Starting TC_002_Login Test***
+02:13:44.810 [TestNG-tests-1] INFO  testCases.TC_002_VerifySignout - ***Starting TC_002_Login Test***
+00:17:36.538 [TestNG-tests-1] INFO  testCases.TC_002_VerifySignout - ***Starting TC_002_Login Test***
+00:28:19.400 [TestNG-tests-1] INFO  testCases.TC_002_VerifySignout - ***Starting TC_002_Login Test***
+00:36:14.472 [TestNG-tests-1] INFO  testCases.TC_002_VerifySignout - ***Starting TC_002_Login Test***
